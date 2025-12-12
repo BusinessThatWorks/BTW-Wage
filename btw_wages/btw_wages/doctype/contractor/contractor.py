@@ -5,5 +5,6 @@
 from frappe.model.document import Document
 
 
+# checking comment
 class Contractor(Document):
 	pass
